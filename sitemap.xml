@@ -1,11 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://yoursite.com/blog/archives/</loc>
+        <loc>http://jurishot.github.com/blog/2012/03/06/hello-world/</loc>
         <lastmod>2012-04-30T16:45:21+08:00</lastmod>
     </url>
     <url>
-        <loc>http://yoursite.com/</loc>
+        <loc>http://jurishot.github.com/blog/2012/04/01/origin/</loc>
+        <lastmod>2012-04-30T16:45:21+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jurishot.github.com/blog/2012/04/02/rule-of-law/</loc>
+        <lastmod>2012-04-30T16:45:21+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jurishot.github.com/blog/archives/</loc>
+        <lastmod>2012-04-30T16:45:21+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://jurishot.github.com/</loc>
         <lastmod>2012-04-30T16:45:21+08:00</lastmod>
     </url>
 </urlset>
